@@ -61,3 +61,4 @@ def luas_segitiga(alas,tinggi):
     print("Luas segitiga : %d" %luas
 enter 2x
 luas_segitiga(100,50)
+//
